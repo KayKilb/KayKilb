@@ -23,12 +23,15 @@ I thrive in environments where creativity meets functionality, and I'm passionat
 - Implemented robust testing with Jest, Vitest, and React Testing Library to ensure reliable user experiences
 - Collaborated on cross-functional teams, utilizing Agile methodologies to deliver quality software efficiently
 
-### Frontend Developer | Capstone Project: SLAY Smart Mirror AR Makeup Experience
+### Frontend Developer | Capstone Project: SLAY – Virtually Flawless XR
 
 - Leading frontend development to create an interactive web-based AR makeup experience using React and Lens Studio
 - Designing intuitive UI for virtual makeup try-ons, ensuring seamless user interactions and real-time AR responsiveness
 - Integrating machine learning APIs for personalized skin-tone recognition and product recommendations
 - Collaborating closely with AR/VR and Machine Learning specialists to create cohesive, engaging user experiences
+
+ 🔗 [Live Demo](https://lnkd.in/gVZCaie4)\
+ 📂 [GitHub Repo](https://github.com/Srixx24/CapstoneSLAY)
 
 ### Technical Recruiter @ ProRecruiters
 
