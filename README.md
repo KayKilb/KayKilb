@@ -48,6 +48,6 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, UI/UX Design,
 
 - [LinkedIn](https://www.linkedin.com/in/kaylenekilbourn/)
 - [GitHub](https://github.com/KayKilb)
-- Email: kaylene.kilbourn\@atlasschool.com
+- kaylene.kilbourn@atlasschool.com
 
 I'm always open to exciting opportunities, collaborations, or a friendly chat about tech and design—feel free to reach out!
