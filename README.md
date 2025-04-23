@@ -29,6 +29,7 @@ I thrive in environments where creativity meets functionality, and I'm passionat
 - Designing intuitive UI for virtual makeup try-ons, ensuring seamless user interactions and real-time AR responsiveness
 - Integrating machine learning APIs for personalized skin-tone recognition and product recommendations
 - Collaborating closely with AR/VR and Machine Learning specialists to create cohesive, engaging user experiences
+![SLAY Cover](https://github.com/user-attachments/assets/5980e5da-ea81-47b0-a663-d33127b8f5a9)
 
  🔗 [Live Demo](https://lnkd.in/gVZCaie4)\
  📂 [GitHub Repo](https://github.com/Srixx24/CapstoneSLAY)
